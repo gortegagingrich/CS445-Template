@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="lwjgl">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Documents/lwjgl-2.9.2/jar/lwjgl.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/lwjgl-2.9.2/jar/jinput.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/lwjgl-2.9.2/jar/lwjgl_util.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <NATIVE>
+      <root url="jar://$USER_HOME$/Downloads/lwjgl-2.9.2.zip!/lwjgl-2.9.2/native/linux/libjinput-linux.so" />
+      <root url="jar://$USER_HOME$/Downloads/lwjgl-2.9.2.zip!/lwjgl-2.9.2/native/linux/libjinput-linux64.so" />
+      <root url="jar://$USER_HOME$/Downloads/lwjgl-2.9.2.zip!/lwjgl-2.9.2/native/linux/liblwjgl.so" />
+      <root url="jar://$USER_HOME$/Downloads/lwjgl-2.9.2.zip!/lwjgl-2.9.2/native/linux/liblwjgl64.so" />
+      <root url="jar://$USER_HOME$/Downloads/lwjgl-2.9.2.zip!/lwjgl-2.9.2/native/linux/libopenal.so" />
+      <root url="jar://$USER_HOME$/Downloads/lwjgl-2.9.2.zip!/lwjgl-2.9.2/native/linux/libopenal64.so" />
+    </NATIVE>
+    <SOURCES />
+  </library>
+</component>
